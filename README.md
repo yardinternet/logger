@@ -71,3 +71,7 @@ An [Acorn](https://roots.io/acorn/) based WordPress theme for example could push
 ```php
 do_action(Yard\Logging\Log::WP_ACTION_SET_LOGGER, app()->make('log'));
 ```
+
+## About us
+
+[![banner](https://raw.githubusercontent.com/yardinternet/.github/refs/heads/main/profile/assets/small-banner-github.svg)](https://www.yard.nl/werken-bij/)
